@@ -1,0 +1,8 @@
+POST /books/book/5
+{
+  "title" : "Learn You a Haskell for Great Good!: A Beginner's Guide",
+  "author" : "Miran Lipovaca",
+  "language" : "Haskell",
+  "publishYear" : 2011,
+  "summary" : "It's all in the name: Learn You a Haskell for Great Good! is a hilarious, illustrated guide to this complex functional language. Packed with the author's original artwork, pop culture references, and most importantly, useful example code, this book teaches functional fundamentals in a way you never thought possible."
+}

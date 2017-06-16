@@ -1,0 +1,8 @@
+POST /books/book/4
+{
+  "title" : "Hadoop: The Definitive Guide, 4th Edition",
+  "author" : "Tom White",
+  "language" : "Java",
+  "publishYear" : 2015,
+  "summary" : "Get ready to unlock the power of your data. With the fourth edition of this comprehensive guide, you’ll learn how to build and maintain reliable, scalable, distributed systems with Apache Hadoop. This book is ideal for programmers looking to analyze datasets of any size, and for administrators who want to set up and run Hadoop clusters."
+}

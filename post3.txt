@@ -1,0 +1,8 @@
+POST /books/book/3
+{
+  "title" : "Programming in Scala: A Comprehensive Step-by-Step Guide, 2nd Edition",
+  "author" : "Martin Odersky",
+  "language" : "Scala",
+  "publishYear" : 2011,
+  "summary" : "Scala is an object-oriented programming language for the Java Virtual Machine. In addition to being object-oriented, Scala is also a functional language, and combines the best approaches to OO and functional programming."
+}
